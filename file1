@@ -1,6 +1,10 @@
 Good morning!
 This is to test the command commit -am
 We will test the command git clean
+<<<<<<< HEAD
 
 Command revert
 /usr/bin/bash: line 1: q: command not found
+=======
+Command reset
+>>>>>>> parent of eb4cf02 (file1 reverted)
