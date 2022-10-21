@@ -2,3 +2,5 @@ Good morning!
 This is to test the command commit -am
 We will test the command git clean
 Command reset
+command revert
+
