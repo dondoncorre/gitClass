@@ -1,1 +1,1 @@
-# gitClass
+# gitExercise
